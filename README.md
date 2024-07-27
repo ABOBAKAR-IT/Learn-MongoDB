@@ -11,15 +11,35 @@ https://www.mongodb.com/try/download/community
 ```
 
 ## Table of Contents
-I. [Introduction to MongoDB](#introduction-to-mongodb)
-II. [Setting Up MongoDB](#setting-up-mongodb)
-III. [Basic Operations](#basic-operations)
-IV. [Querying Data](#querying-data)
-V. [Data Aggregation](#data-aggregation)
-VI. [Indexing and Performance](#indexing-and-performance)
-VII. [Replication and Sharding](#replication-and-sharding)
-VIII. [Security and Authentication](#security-and-authentication)
-IX. [Backup and Recovery](#backup-and-recovery)
-X. [Monitoring and Management](#monitoring-and-management)
-XI. [Best Practices](#best-practices)
-XII. [Conclusion](#conclusion)
+<details>
+<summary>Mongodb CRUD</summary>
+<details>
+<summary>Create Documents</summary>
+- <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/Insert.md">Create Documents</a>
+</details>
+- <details>
+    <summary>Read Documents</summary>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/find/find.md">Finding Documents</a>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/find/findOnArray.md">Querying on Array Elements</a>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/find/logicalOperator.md">Finding Documents by Using Logical Operators</a>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/QueryResults/countDocument.md">Counting Documents</a>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/QueryResults/sort_limit.md">Sorting and Limiting Query</a>
+  </details>
+- <details>
+    <summary>Update Documents</summary>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/update/updateOne.md">Updating MongoDB Documents by Using updateOne()</a>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/update/updateMany.md">Updating MongoDB Documents by Using updateMany()</a>
+    - <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/update/replacing.md">Replacing a Document</a>
+</details>
+<details>
+<summary>Delete Documents</summary>
+- <a href="https://github.com/ABOBAKAR-IT/Learn-MongoDB/blob/master/CRUD/delete/delete.md">Deleting Documents </a>
+</details>
+</details>
+- I. [Introduction to MongoDB](#introduction-to-mongodb)
+- II. [Setting Up MongoDB](#setting-up-mongodb)
+- III. [Basic Operations](#basic-operations)
+- IV. [Querying Data](#querying-data)
+- V. [Data Aggregation](#data-aggregation)
+- VI. [Indexing and Performance](#indexing-and-performance)
+- VII. [Conclusion](#conclusion)
